@@ -2,8 +2,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 
-
-### I'm a Passionate Junior Java Developer
+### I'm a Passionate Junior Software Developer
 
 - 🔭 I’m currently working on building a personal portfolio website.
 - 🌱 I’m currently learning Spring Boot and microservices architecture.
@@ -15,6 +14,9 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282/)
+
+## My GitHub Stats:
+![Laventzakis Ioannis Github Stats](https://github-readme-stats.vercel.app/api?username=Glaventzakis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!-- Languages and Technologies -->
 **Languages I have used**
