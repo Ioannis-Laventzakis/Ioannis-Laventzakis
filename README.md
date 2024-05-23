@@ -1,6 +1,9 @@
 # Hi, I'm Laventzakis Ioannis 👋
 
-### I'm a Passionate Junior Software Developer
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+
+
+### I'm a Passionate Junior Java Developer
 
 - 🔭 I’m currently working on building a personal portfolio website.
 - 🌱 I’m currently learning Spring Boot and microservices architecture.
