@@ -2,7 +2,7 @@
 
 
 
-### I'm a Passionate Junior Software Developer
+### I'm a Passionate Junior Java Developer
 
 - 🔭 I’m currently working on building a personal portfolio website.
 - 🌱 I’m currently learning Spring Boot and microservices architecture.
