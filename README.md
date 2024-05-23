@@ -27,4 +27,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=6DB33F)
