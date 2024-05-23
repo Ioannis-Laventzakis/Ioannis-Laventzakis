@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282/)
 
 ## My GitHub Stats:
-![Laventzakis Ioannis Github Stats](https://github-readme-stats.vercel.app/api?username=Glaventzakis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Laventzakis Ioannis Github Stats](https://github-readme-stats.vercel.app/api?username=IoannisLaventzakis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!-- Languages and Technologies -->
 **Languages I have used**
