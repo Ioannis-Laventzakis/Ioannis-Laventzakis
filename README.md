@@ -25,6 +25,7 @@
 **Some of the technologies I have worked with**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=6DB33F)
+![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
