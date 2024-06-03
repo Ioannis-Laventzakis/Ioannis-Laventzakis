@@ -1,31 +1,35 @@
 # Hi, I'm Laventzakis Ioannis 👋
 
-
-
 ### I'm a Passionate Junior Java Developer
 
 - 🔭 I’m currently working on building a personal portfolio website.
-- 🌱 I’m currently learning Spring Boot and microservices architecture.
+- 🌱 I’m expanding my knowledge in **Spring Boot**, **microservices architecture**, and **cloud services**.
 - 👯 I’m looking to collaborate on open-source Java projects.
-- 🤔 I’m looking for help with mastering Docker and Kubernetes.
-- 💬 Ask me about backend development and APIs.
-- 📫 How to reach me: Glaventzakis@gmail.com
+- 🤔 I’m seeking guidance on mastering **Docker** and **Kubernetes**.
+- 💬 Ask me about **backend development**, **APIs**, and how real-world applications work.
+- 📫 How to reach me: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
 - ⚡ Fun fact: I love debugging so much that I dream in code!
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282/)
+### Connect with me:
 
+[LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282/)
 
-<!-- Languages and Technologies -->
-**Languages I have used**
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+### Languages I have used:
 
-**Some of the technologies I have worked with**
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=6DB33F)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+- Java
+- SQL
+
+### Technologies I have worked with:
+
+- Git & GitHub
+- Linux
+- Spring Boot
+- Maven
+
+### Skills & Knowledge:
+
+- **Java**: Proficient in building robust applications.
+- **PostgresSQL**: Experienced with database design and management.
+- **Spring Boot Framework**: Skilled in creating microservices and backend systems.
+- **APIs**: Proficient in designing and integrating APIs.
+- **Cloud Services**: Knowledgeable in deploying and managing applications on cloud platforms.
