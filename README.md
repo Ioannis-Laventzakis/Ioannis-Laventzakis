@@ -9,6 +9,8 @@
 - 💬 Ask me about **backend development**, **APIs**, and how real-world applications work.
 - 📫 How to reach me: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
 - ⚡ Fun fact: I love debugging so much that I dream in code!
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Laventzakis&show_icons=true&theme=dark)
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ioannis-Laventzakis&layout=compact&theme=dark)
 
