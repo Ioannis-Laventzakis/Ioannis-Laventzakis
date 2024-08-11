@@ -10,9 +10,6 @@
 - 📫 How to reach me: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
 - ⚡ Fun fact: I love debugging so much that I dream in code!
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ioannis-Laventzakis&layout=compact&theme=dark)
-
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
