@@ -3,7 +3,7 @@
 ### I'm a Passionate Junior Java Developer
 
 - 👯 I’m looking to collaborate on open-source Java projects.
-- 📫 How to reach me: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
+- 📫 How to reach me: [laventzakisioannis@gmail.com](mailto:Glaventzakis@gmail.com)
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
