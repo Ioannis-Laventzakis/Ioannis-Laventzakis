@@ -1,5 +1,5 @@
 # 👋 About Me
-I'm a Junior Java Backend Developer based in Braunschweig, Germany. I have a strong passion for building scalable and efficient systems, specializing in Spring Boot, REST APIs, and PostgreSQL. I'm also delving into cloud services and microservices architecture.
+Hi, I'm **Ioannis**—a **Junior Java Backend Developer** and aspiring **Full-Stack Web Developer**. I'm passionate about building efficient and scalable web applications, and I'm currently expanding my skill set with **Web3** and **DApp development**.
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, SQL  
