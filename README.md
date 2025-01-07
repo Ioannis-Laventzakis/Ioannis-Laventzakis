@@ -1,33 +1,37 @@
-# 👋 About Me
-Hi, I'm **Ioannis**—a **Junior Java Backend Developer** and aspiring **Full-Stack Web Developer**. I'm passionate about building efficient and scalable web applications, and I'm currently expanding my skill set with **Web3** and **DApp development**.
+# 👋 Hey there!
 
-## 🛠️ Skills
+I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a **Full-Stack Web Developer**. I’m all about learning new stuff, building cool projects, and exploring the world of **Web3** and **DApps**.
+
+## 🛠️ What I Can Do (So Far)
+
 - **Languages**: Java, JavaScript, SQL  
-- **Frontend**: HTML, CSS, React  
-- **Backend**: Spring Boot, Node.js  
+- **Frontend**: HTML, CSS, React (just started)  
+- **Backend**: Spring Boot, Node.js (learning it now)  
 - **Databases**: PostgreSQL  
-- **Other**: Web3, DApps  
-- **Tools**: Git, Maven, IntelliJ IDEA  
+- **Other Cool Stuff**: Web3, DApps  
+- **Tools I Use**: Git, Maven, IntelliJ IDEA  
 
-## 📈 Projects
-- **Expense Tracker Application**  
-  A tool to manage personal finances, built with Spring Boot and PostgreSQL.  
-  [GitHub Repo](https://github.com/Ioannis-Laventzakis/expense-tracker-application)
+## 📚 What I’m Learning Right Now
 
-- **IoT Device Management System**  
-  An application for managing IoT devices, featuring user authentication and real-time data updates.  
-  [GitHub Repo](https://github.com/Ioannis-Laventzakis/IoTDeviceManagementSystem)
-  
-## 🌱 Currently Learning
+- Full-Stack Web Development (HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3, DApps)  
+- Making my backend skills even stronger with Spring Boot  
 
-- Full-Stack Development (HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3, and DApps)  
-- Advanced Spring Boot features  
-- Microservices architecture 
+## 💻 Projects I’m Working On
 
-## 🎯 Goals
-- Secure a full-time Java Backend Developer role
-- Build and deploy a DApp project.  
-- Contribute to open-source Web3 projects.  
+- **IoT Device Dashboard**  
+  [GitHub Repo](https://github.com/Ioannis-Laventzakis/E-commerce)  
+  A simple dashboard to manage IoT devices. Working on improving it!
+
+- **Expense Tracker** *(Work in Progress)*  
+  Trying to build an app to help keep track of where my money goes.  
+
+## 🎯 My Goals
+
+- Land a job as a Full-Stack Developer.  
+- Build my first DApp.  
+- Keep leveling up my coding skills!  
+
+## 📬 How to Reach Me
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)
