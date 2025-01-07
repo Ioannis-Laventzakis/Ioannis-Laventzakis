@@ -33,10 +33,12 @@ I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a *
 
 ## 📬 How to Reach Me
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)
-- Email: [laventzakisioannis@gmail.com](mailto:Glaventzakis@gmail.com)
+## 📬 How to Reach Me
+Feel free to connect with me!
 
+- [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)  
+- Email: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
+- [Hackerrank](https://www.hackerrank.com/profile/glaventzakis)
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
