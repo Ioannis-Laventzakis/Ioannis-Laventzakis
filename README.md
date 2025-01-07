@@ -1,9 +1,38 @@
-# Hi, I'm Laventzakis Ioannis 👋
+# 👋 About Me
+I'm a Junior Java Backend Developer based in Braunschweig, Germany. I have a strong passion for building scalable and efficient systems, specializing in Spring Boot, REST APIs, and PostgreSQL. I'm also delving into cloud services and microservices architecture.
 
-### I'm a Passionate Junior Java Developer
+## 🛠️ Skills
+- **Languages**: Java, JavaScript, SQL  
+- **Frontend**: HTML, CSS, React  
+- **Backend**: Spring Boot, Node.js  
+- **Databases**: PostgreSQL  
+- **Other**: Web3, DApps  
+- **Tools**: Git, Maven, IntelliJ IDEA  
 
-- 👯 I’m looking to collaborate on open-source Java projects.
-- 📫 How to reach me: [laventzakisioannis@gmail.com](mailto:Glaventzakis@gmail.com)
+## 📈 Projects
+- **Expense Tracker Application**  
+  A tool to manage personal finances, built with Spring Boot and PostgreSQL.  
+  [GitHub Repo](https://github.com/Ioannis-Laventzakis/expense-tracker-application)
+
+- **IoT Device Management System**  
+  An application for managing IoT devices, featuring user authentication and real-time data updates.  
+  [GitHub Repo](https://github.com/Ioannis-Laventzakis/IoTDeviceManagementSystem)
+  
+## 🌱 Currently Learning
+
+- Full-Stack Development (HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3, and DApps)  
+- Advanced Spring Boot features  
+- Microservices architecture 
+
+## 🎯 Goals
+- Secure a full-time Java Backend Developer role
+- Build and deploy a DApp project.  
+- Contribute to open-source Web3 projects.  
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)
+- Email: [laventzakisioannis@gmail.com](mailto:Glaventzakis@gmail.com)
+
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
