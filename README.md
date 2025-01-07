@@ -19,8 +19,7 @@ I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a *
 ## 💻 Projects I’m Working On
 
 - **IoT Device Dashboard**  
-  [GitHub Repo](https://github.com/Ioannis-Laventzakis/E-commerce)  
-  A simple dashboard to manage IoT devices. Working on improving it!
+ A simple dashboard to manage IoT devices. Working on improving it!
 
 - **Expense Tracker** *(Work in Progress)*  
   Trying to build an app to help keep track of where my money goes.  
