@@ -6,7 +6,7 @@ I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a *
 
 - **Languages**: Java, JavaScript, SQL  
 - **Frontend**: HTML, CSS, React (just started)  
-- **Backend**: Spring Boot, Node.js (learning it now)  
+- **Backend**: Spring Boot, (Node.js learning it now)  
 - **Databases**: PostgreSQL  
 - **Other Cool Stuff**: Web3, DApps  
 - **Tools I Use**: Git, Maven, IntelliJ IDEA  
