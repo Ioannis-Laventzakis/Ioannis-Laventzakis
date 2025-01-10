@@ -34,7 +34,6 @@ I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a *
 Feel free to connect with me!
 
 - [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)
-- [Hackerrank](https://www.hackerrank.com/profile/glaventzakis)
 - Email: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
 
 
