@@ -29,7 +29,7 @@ I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a *
 - Land a job as a Full-Stack Developer.  
 - Build my first DApp.  
 - Keep leveling up my coding skills!  
-
+## My Resume [Resume](https://ioannis-laventzakis.github.io/online-resume/)
 ## 📬 How to Reach Me
 Feel free to connect with me!
 
