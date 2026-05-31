@@ -32,7 +32,7 @@ My current focus areas are:
 
 ## 📌 Featured Projects
 
-### E-commerce Platform
+### ecommerce Platform
 A Spring Boot e-commerce project using PostgreSQL and Thymeleaf.  
 The goal is to build a practical online shop with product management, users, orders, and admin features.
 
