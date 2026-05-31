@@ -1,51 +1,59 @@
-# 👋 Hey there!
+# Hi, I'm Ioannis 👋
 
-I’m **Ioannis**, a **Junior Java Backend Developer** on my way to becoming a **Full-Stack Web Developer**. I’m all about learning new stuff, building cool projects, and exploring the world of **Web3** and **DApps**.
+I'm a Junior Java Backend Developer based in Braunschweig, Germany.
 
-## 🛠️ What I Can Do (So Far)
+I focus on building backend applications with Java, Spring Boot, REST APIs, PostgreSQL, and clean project structure. I also have experience with AI-related data evaluation, where I review German-language content, follow project guidelines, and support the improvement of AI model outputs.
 
-- **Languages**: Java, JavaScript, SQL  
-- **Frontend**: HTML, CSS, React (just started)  
-- **Backend**: Spring Boot, (Node.js learning it now)  
-- **Databases**: PostgreSQL  
-- **Other Cool Stuff**: Web3, DApps  
-- **Tools I Use**: Git, Maven, IntelliJ IDEA  
+## 🔧 Tech Stack
 
-## 📚 What I’m Learning Right Now
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL / SQL
+- Spring Data JPA / Hibernate
+- Maven / Gradle
+- Git / GitHub
+- Postman
+- Basic HTML, CSS, JavaScript
+- AI Data Evaluation / Language Evaluation
 
-- Full-Stack Web Development (HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3, DApps)  
-- Making my backend skills even stronger with Spring Boot  
+## 🚀 Main Focus
 
-## 💻 Projects I’m Working On
+Right now I am improving my backend development skills by building practical applications with real business use cases.
 
-- **IoT Device Dashboard**  
- A simple dashboard to manage IoT devices. Working on improving it!
+My current focus areas are:
 
-- **Expense Tracker** *(Work in Progress)*  
-  Trying to build an app to help keep track of where my money goes.  
+- Backend development with Spring Boot
+- REST API design
+- Database design with PostgreSQL
+- Authentication and authorization
+- Clean code and project structure
+- Testing and documentation
 
-## 🎯 My Goals
+## 📌 Featured Projects
 
-- Land a job as a Full-Stack Developer.  
-- Build my first DApp.  
-- Keep leveling up my coding skills!
--  
-## My [Resume](https://ioannis-laventzakis.github.io/online-resume/)
-## 📬 How to Reach Me
-Feel free to connect with me!
+### E-commerce Platform
+A Spring Boot e-commerce project using PostgreSQL and Thymeleaf.  
+The goal is to build a practical online shop with product management, users, orders, and admin features.
 
-- [LinkedIn](https://www.linkedin.com/in/ioannis-laventzakis-b9570a282)
-- Email: [Glaventzakis@gmail.com](mailto:Glaventzakis@gmail.com)
+### Banking System API
+A backend API project focused on account management, transactions, and RESTful design.
 
+### Expense Tracker
+A personal finance application for tracking income, expenses, and financial habits.
 
+## 🎯 Career Goal
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FFA500?style=flat)
-![Cloud Services](https://img.shields.io/badge/Cloud%20Services-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+I am looking for opportunities as a:
 
+- Junior Java Developer
+- Junior Backend Developer
+- Java Software Developer
+- Software Tester / QA Tester
+- AI Training Data Specialist
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ioannis-laventzakis-b9570a282
+- Email: Glaventzakis@gmail.com
+- Resume: https://ioannis-laventzakis.github.io/online-resume/
