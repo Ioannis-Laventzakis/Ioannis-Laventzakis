@@ -14,7 +14,7 @@ I focus on building backend applications with Java, Spring Boot, REST APIs, Post
 - Maven / Gradle
 - Git / GitHub
 - Postman
-- Basic HTML, CSS, JavaScript
+- Basic HTML, CSS
 - AI Data Evaluation / Language Evaluation
 
 ## 📫 Contact
